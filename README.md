@@ -18,11 +18,11 @@
 
 ### Clone bootstrap4-customize
 
-Clone bootstrap4-fontawsome-sass-custom 仓库 [git][git]:
+Clone bootstrap4-customize 仓库:
 
 ```
-git clone https://github.com/GaoQ1/bootstrap4-fontawsome-sass-custom.git
-cd bootstrap4-fontawsome-sass-custom
+git clone https://github.com/GaoQ1/bootstrap4-customize.git
+cd bootstrap4-customize
 ```
 
 ### 下载依赖包
